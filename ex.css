@@ -1,0 +1,84 @@
+body{
+  background-color:wheat;
+}
+.we{
+  margin:250px auto;
+  width:500px ;
+  background-color: white;
+}
+.fo{
+  width: 500px;
+  height: 80px;
+  text-align: center;
+  color: white;
+  background-color:rgb(132,52,52) ;
+}
+.fo p{
+  position:relative;
+  top: 20px;
+  font-size:30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.im img{
+width: 30px;
+height: 30px;
+}
+.di{
+  display: inline-block;
+  position: relative;
+  bottom:35px;
+  left: 130px;
+  background-color: rgb(132,52,52);
+}
+.im1 img{
+  width: 30px;
+  height: 30px;
+  }
+  .di1{
+    display: inline-block;
+    position: relative;
+    bottom:35px;
+    left: 130px;
+    background-color: rgb(132,52,52);
+  }
+.em input{
+  width:250px ;
+  height: 29.5px;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+.em1 input{
+  width:250px ;
+  height: 29.5px;
+  margin-left: 160px;
+  margin-top: -20px;
+}
+.pa{
+  text-align:center;
+  position: relative;
+  top:-40px;
+  left: -42px;
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+button{
+  background-color: rgb(132,52,52);
+  color: white;
+  border: none;
+  position: relative;
+  top: -40px;
+  width:285px;
+  font-size: 18px;
+  height: 35px;
+  left: 130px;
+}
+button:hover{
+  box-shadow: 2px 2px 2px 2px black;
+}
+.ne{
+  text-align:center;
+  position: relative;
+  top:-45px;
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
